@@ -1,0 +1,236 @@
+Albania
+Afghanistan|Islamic Republic of Afghanistan|the Islamic Republic of Afghanistan
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas|the Bahamas
+Bangladesh
+Bahrain
+Baht
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia|the Plurinational State of Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei|Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic|the Central African Republic
+Chad
+Chile
+China
+Collectivity of Saint Martin|the Collectivity of Saint Martin
+Colombia
+Commonwealth of the Northern Mariana Islands|the Commonwealth of the Northern Mariana Islands
+Comoros
+Congo|the Democratic Republic of the Congo|the Republic of the Congo|Democratic Republic of the Congo
+Costa Rica
+Cote d`Ivoire|the Republic of Cote d'Ivoir
+Cote d'Ivoire
+Croatia
+Cuba
+Curacao
+Cyprus
+Czech Republic|the Czech Republic
+Democratic Republic of Timor-Leste|the Democratic Republic of Timor-Leste|Timor-Leste
+Denmark
+Djibouti
+Dominican Republic|the Dominican Republic
+Dominica
+Ecuador
+Egypt|the Arab Republic of Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Faroe Islands|the Faroe Islands
+Federated States of Micronesia|the Federated States of Micronesia
+Fiji
+Finland
+Former Czechoslovakia
+France
+French Polynesia
+Gabon
+Gambia
+Gambia|the Gambia|the Republic of the Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Granada
+Greece
+Greenland 
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hong Kong SAR
+Hungary
+Iceland
+India
+Indonesia
+Iran|the Islamic Republic of Iran
+Iraq
+Ireland
+Islamic Republic of Iran
+Isle of Man|the Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea|the Republic of Korea|the Republic of Korea (South Korea)
+Kosovo
+Kuna
+Kuwait
+Kyrgyzstan|the Kyrgyz Republic
+Laos|the Lao People's Democratic Republic|Lao People's Democratic Republic|Lao PDR
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macau SAR
+Macedonia|Macedonia, FYR|the former Yugoslav Republic of Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives|the Maldives
+Mali
+Malta
+Mauritania
+Mauritius
+Mexico
+Moldova|the Republic of Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands Antilles
+Netherlands|the Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea|the Democratic People's Republic of Korea
+Norway
+Occupied Palestinian Territory|the Occupied Palestinian Territory
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines|the Philippines
+Poland
+Portugal
+Qatar
+Republic of Congo
+Republic of Korea
+Republic of Moldova
+Romania
+Russia|the Russian Federation
+Russian Federation
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles|the Seychelles
+Sierra Leone
+Singapore
+Slovak Republic|the Slovak Republic
+Slovakia
+Slovenia
+Solomon Islands|the Solomon Islands
+Somalia
+South Africa
+Spain
+Sri Lanka
+St. Kitts and Nevis
+St. Lucia
+St. Vincent and the Grenadines
+St.Vincent and Grenadines
+Sudan|the Sudan|the Republic of South Sudan
+Surinam
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria|Syrian Arab Republic|the Syrian Arab Republic
+Taiwan|Province of China Taiwan
+Tajikistan
+Tanzania|the United Republic of Tanzania|United Republic of Tanzania
+Thailand
+The Bahamas
+the Marshall Islands|the Marshall Islands
+Togo
+Tonga
+Trinidad & Tobago|Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine|the Ukraine
+United Arab Emirates|the United Arab Emirates
+United Kingdom|the United Kingdom|Great Britain
+United States|U.S.|the U.S.|the United States
+Uruguay
+U.S. Virgin Islands
+Uzbekistan
+Vanuatu
+Venezuela|the Bolivarian Republic of Venezuela|Bolivarian Republic of Venezuela
+Viet Nam
+Vietnam
+Warrants
+West Indies UK
+World|the World
+Yemen|the Republic of Yemen
+Zambia
+Zimbabwe

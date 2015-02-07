@@ -1,0 +1,49 @@
+Argentina|Argentine peso
+Australia|Australian dollar
+Brazil|Brazilian real
+Bulgaria|Lev
+Canada|Canadian dollar
+Chile|Chilean peso
+China|Chinese Taipei
+China|Renminbi
+Colombia|Colombian peso
+Cyprus|Cyprus pound
+Czech Republic|Czech koruna
+Denmark|Danish krone
+Egypt|Egyptian pound
+Estonia|Estonian kroon
+Euro|Euro
+Hong Kong|Hong Kong SAR
+Hong Kong|Hong Kong dollar
+Hungary|Forint
+India|Indian rupee
+Indonesia|Rupiah
+Israel|New shekel
+Japan|Yen|Japanese Yen
+Kazakhstan|Tenge
+Korea|Won
+Kuwait|Kuwaiti dinar
+Latvia|Lats
+Lithuania|Litas
+Malaysia|Malaysian ringgit
+Mexico|Mexican peso
+Morocco|Moroccan dirham
+New Zealand|New Zealand dollar
+Norway|Norwegian krone
+Philippines|Philippine peso
+Poland|Zloty
+Russia|Russian rouble
+Saudi Arabia|Saudi riyal
+Singapore|Singapore dollar
+Slovenia|Tolar
+South Africa|Rand
+Sweden|Swedish krona
+Switzerland|Swiss franc|Swiss Frank
+Taiwan|New Taiwan dollar
+Trinidad & Tobago|Trinidad and Tobago dollar
+Turkey|New Turkish lira
+Ukraine|Hryvnia
+United Arab Emirates|UAE dirham
+United Kingdom|Pound sterling|British Pound|British Pounds
+United States|US dollar|U.S. Dollar|U.S. Dollars
+Uruguay|Uruguayan peso

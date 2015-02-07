@@ -1,0 +1,11 @@
+Survey-Based (Females)|F
+Survey-Based (Males)|M
+Survey-Based (All Persons)|A
+Females|F
+Males|M
+Persons|A
+All Persons|A
+Male and Female|A
+Men|M
+Women|F
+Youth|Y
