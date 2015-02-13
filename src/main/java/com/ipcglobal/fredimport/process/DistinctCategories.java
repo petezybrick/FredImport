@@ -57,27 +57,10 @@ public class DistinctCategories {
 	
 	/*** The output path. */
 	private String outputPath;
-
-	/**
-	 * The main method.
-	 *
-	 * @param args the arguments
-	 */
-	public static void main(String[] args) {
-		LogTool.initConsole();
-		DistinctCategories distinctCategories = null;
-		try {
-			Properties properties = new Properties();
-			properties.load(new FileInputStream("/home/pete.zybrick/Development/Workspaces/HadoopSandbox/FredImport/run/properties/aws.properties"));
-			distinctCategories = new DistinctCategories( properties, null, "/home/pete.zybrick/temp/fred_output/");
-			distinctCategories.gzipRptSql();
-
-		} catch (Exception e) {
-			log.info(e);
-			e.printStackTrace();
-		}
-	}
-
+	
+	/*** The name of the Fred table. */
+	private String tableNameFred;
+	
 	
 	/**
 	 * Instantiates a new distinct categories.DistinctCategories
@@ -90,10 +73,11 @@ public class DistinctCategories {
 	public DistinctCategories(Properties properties, Map<Integer, DistinctCategoryItem> distinctCategoryItems, String outputPath ) throws Exception {
 		super();
 		this.properties = properties;
-		this.distinctCategoryItems = distinctCategoryItems;
-		
-		this.outputPath = outputPath;		
-		String outputSubdirRptSql = FredUtils.readfixPath( "outputSubdirRptSql", properties );		
+		this.distinctCategoryItems = distinctCategoryItems;		
+		this.outputPath = outputPath;
+		this.tableNameFred = properties.getProperty("tableNameFred").trim();
+
+		String outputSubdirRptSql = FredUtils.readfixPath( "outputSubdirRptSql", properties );
 		outputPathRptSql = outputPath + outputSubdirRptSql;
 		FileUtils.forceMkdir(new File(outputPathRptSql) );
 	}
@@ -220,7 +204,7 @@ public class DistinctCategories {
 		StringBuilder sbComment = new StringBuilder("// ").append(tName).append(" ").append(item.getCategory1());
 		StringBuilder sbLoad = new StringBuilder("// [").append(tName).append("]:\n").append("// LOAD category1 as [").append(tName).append(" Category1]");
 		StringBuilder sbSqlColumns = new StringBuilder("// SQL SELECT category1");
-		StringBuilder sbSqlWhere = new StringBuilder(" FROM tbfred where category1='").append(item.getCategory1().replace("'", "''")).append("'");
+		StringBuilder sbSqlWhere = new StringBuilder(" FROM " + tableNameFred + " where category1='").append(item.getCategory1().replace("'", "''")).append("'");
 		
 		if (item.getCategory2() != null) {
 			sbComment.append(" | ").append(item.getCategory2());

@@ -40,7 +40,6 @@ import com.ipcglobal.fredimport.item.DistinctCategoryItem;
 import com.ipcglobal.fredimport.util.FredUtils;
 
 
-// TODO: Auto-generated Javadoc
 /**
  * MetricSpreadsheet uses POI to generate the spreadsheet
  * 
